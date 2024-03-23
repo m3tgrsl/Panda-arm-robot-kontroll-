@@ -1,8 +1,7 @@
 # Panda Robotunun ROS ve Opencv ile Adım kontrollü
 
-https://www.youtube.com/watch?v=xPOBRnNNyeY&ab_channel=mehmetg%C3%BCrsul
 
-!!<video src="https://www.youtube.com/watch?v=xPOBRnNNyeY&ab_channel=mehmetg%C3%BCrsul" width="320" height="240" controls></video>
+
 
 [![alt text](https://i9.ytimg.com/vi_webp/NG--17tlHYA/mq1.webp?sqp=CNDZ-q8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLC2FaPOGT5-RJfuTuKDTRB7OdXNQw)](https://www.youtube.com/watch?v=xPOBRnNNyeY&ab_channel=mehmetg%C3%BCrsul
 )
